@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "title": "Senior Vue Developer",
+    "type": "Full-Time",
+    "location": "København, Danmark",
+    "description": "We are seeking an experienced Vue.js developer to join our Copenhagen team. You will be working on high-traffic web applications and collaborating closely with our UX designers and backend engineers.",
+    "salary": "DKK 650,000 - 750,000",
+    "company": {
+      "name": "NordTech ApS",
+      "description": "NordTech is a Danish software consultancy that focuses on building scalable web applications for both startups and established enterprises. We offer flexible work hours and a great office culture.",
+      "contactEmail": "kontakt@nordtech.dk",
+      "contactPhone": "+45 70 20 30 40"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Front-End Engineer (Vue)",
+    "type": "Full-Time",
+    "location": "Aarhus, Danmark",
+    "description": "Join our front-end team in Aarhus to create responsive, accessible user interfaces. We’re looking for someone with strong Vue and UI/UX skills, who loves clean design and pixel perfection.",
+    "salary": "DKK 600,000 - 700,000",
+    "company": {
+      "name": "Designhuset ApS",
+      "description": "Designhuset is a digital agency based in Aarhus with a focus on creative design and front-end development. We work with a variety of Danish brands on modern web solutions.",
+      "contactEmail": "jobs@designhuset.dk",
+      "contactPhone": "+45 86 12 34 56"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Vue.js Developer",
+    "type": "Full-Time",
+    "location": "Odense, Danmark",
+    "description": "Do you love front-end technologies and Vue.js? We’re looking for a developer to join our fast-paced team working on e-commerce platforms and internal tools.",
+    "salary": "DKK 580,000 - 670,000",
+    "company": {
+      "name": "EcomLoop A/S",
+      "description": "EcomLoop is a leading e-commerce development company based in Odense. We specialize in helping Danish retailers build scalable and performant online stores.",
+      "contactEmail": "kontakt@ecomloop.dk",
+      "contactPhone": "+45 66 78 90 12"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Vue Front-End Developer",
+    "type": "Part-Time",
+    "location": "Aalborg, Danmark",
+    "description": "We are hiring a part-time Vue.js developer in Aalborg. Perfect for students or freelancers who want to work on fun projects and build a portfolio while studying.",
+    "salary": "DKK 300,000 - 400,000",
+    "company": {
+      "name": "NovaDigital",
+      "description": "NovaDigital is a creative tech studio in Aalborg focused on helping local businesses digitize their services. We value creativity, flexibility, and good vibes.",
+      "contactEmail": "team@novadigital.dk",
+      "contactPhone": "+45 98 76 54 32"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Full Stack Vue Developer",
+    "type": "Full-Time",
+    "location": "Esbjerg, Danmark",
+    "description": "We’re looking for a Full Stack Developer with strong Vue.js experience and basic Laravel knowledge to help us maintain and grow our logistics platform.",
+    "salary": "DKK 600,000 - 750,000",
+    "company": {
+      "name": "FreightSoft A/S",
+      "description": "FreightSoft builds web-based logistics and shipment platforms for Danish freight companies. Our team in Esbjerg is growing, and we need you on board!",
+      "contactEmail": "info@freightsoft.dk",
+      "contactPhone": "+45 75 43 21 00"
+    }
+  },
+  {
+    "id": "6",
+    "title": "Vue Native Developer",
+    "type": "Full-Time",
+    "location": "Roskilde, Danmark",
+    "description": "Are you passionate about mobile development? Join our Roskilde team to build cross-platform mobile apps using Vue Native for both Android and iOS.",
+    "salary": "DKK 630,000 - 720,000",
+    "company": {
+      "name": "AppByen ApS",
+      "description": "AppByen is a mobile-first development studio in Roskilde helping companies transition into the app world. We value clean code, good design, and a great work/life balance.",
+      "contactEmail": "hej@appbyen.dk",
+      "contactPhone": "+45 46 32 19 88"
+    }
+  }
+]
